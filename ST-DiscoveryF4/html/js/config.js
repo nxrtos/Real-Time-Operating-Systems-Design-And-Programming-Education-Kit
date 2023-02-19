@@ -20,51 +20,51 @@ var index =
     {
         "column": "modules",
         "name": "Module 1: Introduction to the Course",
-        "link": "contents/Module 01_Introduction/Lecture Presentation.pptx"
+        "link": "Contents/Module_01_Introduction/Lecture_Presentation.pptx"
       },
 		{
         "column": "exercises",
         "name": "Getting Started",
-        "link": "contents/Appendix/Getting Started.docx"
+        "link": "Contents/Appendix/Getting_Started.docx"
       }
     ],
     [
       {
         "column": "modules",
         "name": "Module 2: OS Overview",
-        "link": "contents/Module 02_OS Overview/Lecture Presentation.pptx"
+        "link": "Contents/Module_02_OS_Overview/Lecture_Presentation.pptx"
       }
     ],
     [
       {
         "column": "modules",
         "name": "Module 3: Process, Task and Thread",
-        "link": "contents/Module 03_Process, Task and Thread/Lecture Presentation.pptx"
+        "link": "Contents/Module_03_Process_Task_and_Thread/Lecture_Presentation.pptx"
       },
       {
         "column": "exercises",
         "name": "Lab Manual 1",
-        "link": "contents/Module 03_Process, Task and Thread/Lab Manual_1.docx"
+        "link": "Contents/Module_03_Process_Task_and_Thread/Lab_Manual_1.docx"
       },
       {
         "column": "exercises",
         "name": "Lab Manual 2",
-        "link": "contents/Module 03_Process, Task and Thread/Lab Manual_2.docx"
+        "link": "Contents/Module_03_Process_Task_and_Thread/Lab_Manual_2.docx"
       },
     {
         "column": "exercises",
         "name": "Code 1",
-        "link": "contents/Module 03_Process, Task and Thread/Code_1"
+        "link": "Contents/Module_03_Process_Task_and_Thread/Code_1"
       },
 		{
         "column": "exercises",
         "name": "Code 2",
-        "link": "contents/Module 03_Process, Task and Thread/Code_2"
+        "link": "Contents/Module_03_Process_Task_and_Thread/Code_2"
       },
 		{
         "column": "exercises",
         "name": "Code 2 Solution",
-        "link": "contents/Module 03_Process, Task and Thread/Code_2_Solution"
+        "link": "Contents/Module_03_Process_Task_and_Thread/Code_2_Solution"
       },
 		
     ],
@@ -72,51 +72,51 @@ var index =
       {
         "column": "modules",
         "name": "Module 4: Scheduling",
-        "link": "contents/Module 04_Scheduling/Lecture Presentation.pptx"
+        "link": "Contents/Module_04_Scheduling/Lecture_Presentation.pptx"
       },
       {
         "column": "exercises",
         "name": "Homework",
-        "link": "contents/Module 04_Scheduling/Homework.docx"
+        "link": "Contents/Module_04_Scheduling/Homework.docx"
       },
       {
         "column": "exercises",
         "name": "Homework Solutions",
-        "link": "contents/Module 04_Scheduling/Solution.xlsx"
+        "link": "Contents/Module_04_Scheduling/Solution.xlsx"
       },
         ],
     [
     {
         "column": "modules",
         "name": "Module 5: Concurrency",
-        "link": "contents/Module 05_Concurrency/Lecture Presentation.pptx"
+        "link": "Contents/Module_05_Concurrency/Lecture_Presentation.pptx"
       },
     {
         "column": "exercises",
         "name": "Lab Manual 3",
-        "link": "contents/Module 05_Concurrency/Lab Manual.docx"
+        "link": "Contents/Module_05_Concurrency/Lab_Manual.docx"
       },
     {
         "column": "exercises",
         "name": "Code 3",
-        "link": "contents/Module 05_Concurrency/Code"
+        "link": "Contents/Module_05_Concurrency/Code"
       },
     {
         "column": "exercises",
         "name": "Code Solution 3",
-        "link": "contents/Module 05_Concurrency/Code_Solution"
+        "link": "Contents/Module_05_Concurrency/Code_Solution"
         },
     {
         "column": "exercises",
         "name": "Banker's Algorithm",
-        "link": "contents/Module 05_Concurrency/Banker's Algorithm.xlsx"
+        "link": "Contents/Module_05_Concurrency/Banker_s_Algorithm.xlsx"
       },
     ],
     [
 	  {
         "column": "modules",
         "name": "Module 6: Memory",
-        "link": "contents/Module 06_Memory/Lecture Presentation.pptx"
+        "link": "Contents/Module_06_Memory/Lecture_Presentation.pptx"
       }
   
     ],
@@ -124,17 +124,17 @@ var index =
       {
         "column": "modules",
         "name": "Module 7: Virtual Memory",
-        "link": "contents/Module 07_Virtual Memory/Lecture Presentation.pptx"
+        "link": "Contents/Module_07_Virtual Memory/Lecture_Presentation.pptx"
       },
     {
         "column": "exercises",
         "name": "Homework",
-        "link": "contents/Module 07_Virtual Memory/Homework.docx"
+        "link": "Contents/Module_07_Virtual Memory/Homework.docx"
       },
     {
         "column": "exercises",
         "name": "Virtual Memory",
-        "link": "contents/Module 07_Virtual Memory/Virtual Memory.xlsx"
+        "link": "Contents/Module_07_Virtual Memory/Virtual Memory.xlsx"
       }
     
     ],
@@ -142,7 +142,7 @@ var index =
       {
         "column": "modules",
         "name": "Module 8: File System and I/O",
-        "link": "contents/Module 08_File System and IO/Lecture Presentation.pptx"
+        "link": "Contents/Module_08_File_System_and_IO/Lecture_Presentation.pptx"
       }
     
     ],
@@ -150,7 +150,7 @@ var index =
       {
         "column": "modules",
         "name": "Module 9: RTOS and RTX",
-        "link": "contents/Module 09_RTOS and RTX/Lecture Presentation.pptx"
+        "link": "Contents/Module_09_RTOS_and_RTX/Lecture_Presentation.pptx"
       }
     
     ],
@@ -158,17 +158,17 @@ var index =
 	  {
         "column": "modules",
         "name": "Module 10: RTX Task and Simple Time Management",
-        "link": "contents/Module 10_RTX Task and Simple Time Management/Lecture Presentation.pptx"
+        "link": "Contents/Module_10_RTX_Task_and_Simple_Time_Management/Lecture_Presentation.pptx"
       },
     {
         "column": "exercises",
         "name": "Lab Manual 4",
-        "link": "contents/Module 10_RTX Task and Simple Time Management/Lab Manual.docx"
+        "link": "Contents/Module_10_RTX_Task_and_Simple_Time_Management/Lab_Manual.docx"
       },
     {
         "column": "exercises",
         "name": "Code 4",
-        "link": "contents/Module 10_RTX Task and Simple Time Management/Code"
+        "link": "Contents/Module_10_RTX_Task_and_Simple_Time_Management/Code"
       }
     
     ],
@@ -176,44 +176,44 @@ var index =
       {
         "column": "modules",
         "name": "Module 11: Sharing Data on RTX",
-        "link": "contents/Module 11_Sharing Data on RTX/Lecture Presentation.pptx"
+        "link": "Contents/Module_11_Sharing_Data_on_RTX/Lecture_Presentation.pptx"
       },
     {
         "column": "exercises",
         "name": "Lab Manual 5",
-        "link": "contents/Module 11_Sharing Data on RTX/Lab Manual.docx"
+        "link": "Contents/Module_11_Sharing_Data_on_RTX/Lab_Manual.docx"
       },
     {
         "column": "exercises",
         "name": "Code 5",
-        "link": "contents/Module 11_Sharing Data on RTX/Code"
+        "link": "Contents/Module_11_Sharing_Data_on_RTX/Code"
       },
     {
         "column": "exercises",
         "name": "Code 5 Solution",
-        "link": "contents/Module 11_Sharing Data on RTX/Code_Solution"
+        "link": "Contents/Module_11_Sharing_Data_on_RTX/Code_Solution"
       }
     ],
     [
 		{
         "column": "modules",
         "name": "Module 12: Performance Evaluation and OS-aware Debugging",
-        "link": "contents/Module 12_Performance Evaluation and OS-aware Debugging/Lecture Presentation.pptx"
+        "link": "Contents/Module_12_Performance_Evaluation_and_OS-aware_Debugging/Lecture_Presentation.pptx"
       },
      {
         "column": "exercises",
         "name": "Lab Manual 6",
-        "link": "contents/Module 12_Performance Evaluation and OS-aware Debugging/Lab Manual.docx"
+        "link": "Contents/Module_12_Performance_Evaluation_and_OS-aware_Debugging/Lab_Manual.docx"
       },
     {
         "column": "exercises",
         "name": "Code 6",
-        "link": "contents/Module 12_Performance Evaluation and OS-aware Debugging/Code"
+        "link": "Contents/Module_12_Performance_Evaluation_and_OS-aware_Debugging/Code"
       },
     {
         "column": "exercises",
         "name": "Code 6 Solution",
-        "link": "contents/Module 12_Performance Evaluation and OS-aware Debugging/Code_Solution"
+        "link": "Contents/Module_12_Performance_Evaluation_and_OS-aware_Debugging/Code_Solution"
       }
     ]
   ]
